@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Simple Rock, Papper, Scissors game developed in C programing Language. Also, my first project!
+Simple Rock, Papper, Scissors game that was developed in C programing Language. Also, my first project!
 <br />
 
 
